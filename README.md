@@ -1,3 +1,2 @@
 # vanyjeva-vera
-gcc main.c -o main
-./main
+gcc main.c -o main && ./main
